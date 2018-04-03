@@ -1,3 +1,5 @@
 This is the first file in the feature1 branch.
 A modification has been made in this file in the feature2 branch.
 This is the third file in the series.
+
+This file has again been modified in the feature1 branch.
